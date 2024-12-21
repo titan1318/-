@@ -1,0 +1,23 @@
+[
+  {
+    "book_id": 1,
+    "title": "Анна Каренина",
+    "author": "Толстой",
+    "year": 2020,
+    "status": true
+  },
+  {
+    "book_id": 2,
+    "title": "Идиот",
+    "author": "Достоевский",
+    "year": 2023,
+    "status": false
+  },
+  {
+    "book_id": 3,
+    "title": "Бесы",
+    "author": "Достоевский",
+    "year": 2022,
+    "status": true
+  }
+]
